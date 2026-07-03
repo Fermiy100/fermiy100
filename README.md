@@ -1,13 +1,13 @@
 <br>
 <br>
 
-<h1 align="center">Фермий</h1>
+<h1 align="center">Fermiy</h1>
 <p align="center" style="color:#86868B;">Fullstack разработчик</p>
 
 <br>
 
 <p align="center" style="color:#86868B; font-size:14px;">
-  Разрабатываю лёгкие интерфейсы и продуманные дизайн-системы.
+  Разрабатываю интерфейсы и продуманные дизайн-системы.
 </p>
 
 <br>
